@@ -82,8 +82,11 @@
     height: auto;
   }
 
-  img {
+img {
     max-width: 175px;
+    @include breakpoint($large) {
+      padding: 1px;
+      border: 1px solid $border-color;
     }
   }
 }
