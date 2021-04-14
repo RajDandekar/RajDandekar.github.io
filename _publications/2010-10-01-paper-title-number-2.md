@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/CellPatterns_Covid_SafeBlues
 venue: "Cell Patterns"
 date: 2021-03-12
-citation: '<b>Raj Dandekar</b>,  Shane G Henderson, Hermanus M Jansen, Joshua McDonald, Sarat Moka, Yoni Nazarathy, Christopher Rackauckas, Peter G Taylor, Aapeli Vuorinen<i>Cell Patterns 2021.</i>'
+citation: '<b>Raj Dandekar</b>,  Shane G Henderson, Hermanus M Jansen, Joshua McDonald, Sarat Moka, Yoni Nazarathy, Christopher Rackauckas, Peter G Taylor, Aapeli Vuorinen. <i>Cell Patterns 2021.</i>'
 ---
 
 [[PDF]](https://RajDandekar.github.io/files/CellPatterns_Covid_SafeBlues.pdf)
