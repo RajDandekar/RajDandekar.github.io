@@ -2,7 +2,7 @@
 title: "Bayesian Neural Ordinary Differential Equations"
 collection: publications
 permalink: /publications/Bayesian_NeuralODE
-venue: "Languages for Inference (LAF1) 21"
+venue: "Languages for Inference (LAF1)"
 date: 2021-01-22
 citation: '<b>Raj Dandekar</b>,  Vaibhav Dixit, Mohamed Tarek, Aslan Garcia-Valadez, Chris Rackauckas. <i>LAFI 2021.</i>'
 ---
