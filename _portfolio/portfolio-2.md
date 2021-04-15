@@ -1,7 +1,7 @@
 ---
-title: "Researchers develop Bluetooth powered “virtual virus” to track COVID-19’s spread"
-excerpt: "A virtual virus spread between smartphones could help track disease transmissions in real-time".
-<br/> <br/><img src='/images/Media3.PNG'>"
+title: "Could a neural network have predicted this pandemic’s impact?"
+excerpt: "World leaders are being blamed either for ignoring the data belying the significance of the novel coronavirus, or paying too much attention to it. Perhaps it would help if neural networks made that data more relevant.
+<br/> <br/><img src='/images/Media2.PNG'>"
 collection: portfolio
 ---
-[Article](https://cee.mit.edu/researchers-develop-bluetooth-powered-virtual-virus-to-track-covid-19s-spread/)
+[Article](https://www.zdnet.com/article/could-a-neural-network-have-predicted-this-pandemics-impact/)
